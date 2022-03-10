@@ -2,18 +2,26 @@
 
 <h2 align="center">Cyber Innovation and Security Enthusiast</h2>
 
-<text align="center">![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+<text align="center">![](https://komarev.com/ghpvc/?username=nitin293&color=green)
 
-<text align="center"> I am a undergraduate student having my degree from Gauhati University Institute of Science & Technology (GUIST) in Computer Science and Engineering. A mentality of hustling and enthusiasm in the field of Cyber Innovation and Security. Have also worked on Brain Computer Interface, Machine Learning, Web, System and Network Pentesting.
+<h3 align="left">About Me</h3>
 
-
-Here are some ideas to get you started:
+<text align="center">A Computer Science and Engineering student, having mentality of hustling and enthusiasm in the field of Cyber Innovation and Security. Have also worked on Brain Computer Interface, Machine Learning, Web, System and Network Pentesting.
+  
 
 - 🔭 I’m currently working on Security Research
 - 🌱 I’m currently learning Quantum Cryptography
 - 🤔 I’m looking for help with Quantum Cryptography
 - 💬 Ask me about Cyber Security and Cryptography
-- 📫 How to reach me: nitinnlb@gmail.com
+
+  
+<h3 align="left">Reach Me</h3> 
+  
+  - Mail: nitinnlb@gmail.com
+  - LinkedIn: https://linkedin.com/in/thisisnitinchoudhury
+
+  
+<h3 align="left">Fields:</h3>
 
 
 
