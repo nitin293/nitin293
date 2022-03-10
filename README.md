@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Nitin Choudhury, having my undergraduate degree from Gauhati University Institute of Science & Technology (GUIST) in Computer Science and Engineering. A mentality of hustling and enthusiasm in the field of Cyber Innovation and Security. Have also worked on Brain Computer Interface, Machine Learning, Web, System and Network Pentesting.
+
 <!--
 **nitin293/nitin293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
