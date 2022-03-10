@@ -21,8 +21,6 @@
   - LinkedIn: https://linkedin.com/in/thisisnitinchoudhury
 
   
-<h3 align="left">Fields:</h3>
-
-
+<h3 align="left">Statistical Overview:</h3>
 
 <text align="center">![image](https://github-readme-stats.vercel.app/api?username=nitin293&show_icons=true&count_private=true&theme=dark)
