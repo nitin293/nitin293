@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently working on Security Research
 - 🌱 I’m currently learning Quantum Cryptography
-- 🤔 I’m looking for help with Quantum Cryptography
 - 💬 Ask me about Cyber Security and Cryptography
 
   
