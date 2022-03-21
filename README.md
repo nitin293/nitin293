@@ -23,3 +23,5 @@
 <h3 align="left">Statistical Overview:</h3>
 
 <text align="center">![image](https://github-readme-stats.vercel.app/api?username=nitin293&show_icons=true&count_private=true&theme=dark)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin293&" alt="nitin293" /></p>
