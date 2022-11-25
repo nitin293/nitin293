@@ -2,7 +2,7 @@
 
 <h2 align="center">Cyber Innovation and Security Enthusiast</h2>
 
-<text align="center">![]()
+<text align="center">![GitHub Views](https://komarev.com/ghpvc/?username=nitin293&color=FAC151)
 
 <h3 align="left">About Me</h3>
 
