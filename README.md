@@ -9,8 +9,8 @@
 <text align="center">A Computer Science and Engineering student, having mentality of hustling and enthusiasm in the field of Cyber Innovation and Security. Have also worked on Brain Computer Interface, Machine Learning, Web, System and Network Pentesting.
   
 
-- 🔭 I’m currently working on Security Research
-- 🌱 I’m currently learning Quantum Cryptography
+- 🔭 Currently working on Security and Brain Research
+- 🌱 Learning Quantum Cryptography
 - 💬 Ask me about Cyber Security and Cryptography
 
   
